@@ -1,0 +1,7 @@
+//write files from the src
+{
+    "compilerOptions" : {
+        "baseUrl": "src"
+    },
+    "include" : ["src"]
+}
